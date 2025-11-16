@@ -111,5 +111,4 @@ Joblib
 HTML / CSS
 
 🔗 Live Demo / GitHub Repo Link
-
-(Add your GitHub link here once uploaded)
+https://github.com/Leavitt08/Telecom-Customer-Churn-Prediction
