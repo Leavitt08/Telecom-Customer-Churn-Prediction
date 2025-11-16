@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Gender",
+    "dtype": "object"
+  },
+  {
+    "name": "Age",
+    "dtype": "int64"
+  },
+  {
+    "name": "Married",
+    "dtype": "object"
+  },
+  {
+    "name": "Number of Dependents",
+    "dtype": "int64"
+  },
+  {
+    "name": "City",
+    "dtype": "object"
+  },
+  {
+    "name": "Zip Code",
+    "dtype": "int64"
+  },
+  {
+    "name": "Latitude",
+    "dtype": "float64"
+  },
+  {
+    "name": "Longitude",
+    "dtype": "float64"
+  },
+  {
+    "name": "Number of Referrals",
+    "dtype": "int64"
+  },
+  {
+    "name": "Tenure in Months",
+    "dtype": "int64"
+  },
+  {
+    "name": "Offer",
+    "dtype": "object"
+  },
+  {
+    "name": "Phone Service",
+    "dtype": "object"
+  },
+  {
+    "name": "Avg Monthly Long Distance Charges",
+    "dtype": "float64"
+  },
+  {
+    "name": "Multiple Lines",
+    "dtype": "object"
+  },
+  {
+    "name": "Internet Service",
+    "dtype": "object"
+  },
+  {
+    "name": "Internet Type",
+    "dtype": "object"
+  },
+  {
+    "name": "Avg Monthly GB Download",
+    "dtype": "float64"
+  },
+  {
+    "name": "Online Security",
+    "dtype": "object"
+  },
+  {
+    "name": "Online Backup",
+    "dtype": "object"
+  },
+  {
+    "name": "Device Protection Plan",
+    "dtype": "object"
+  },
+  {
+    "name": "Premium Tech Support",
+    "dtype": "object"
+  },
+  {
+    "name": "Streaming TV",
+    "dtype": "object"
+  },
+  {
+    "name": "Streaming Movies",
+    "dtype": "object"
+  },
+  {
+    "name": "Streaming Music",
+    "dtype": "object"
+  },
+  {
+    "name": "Unlimited Data",
+    "dtype": "object"
+  },
+  {
+    "name": "Contract",
+    "dtype": "object"
+  },
+  {
+    "name": "Paperless Billing",
+    "dtype": "object"
+  },
+  {
+    "name": "Payment Method",
+    "dtype": "object"
+  },
+  {
+    "name": "Monthly Charge",
+    "dtype": "float64"
+  },
+  {
+    "name": "Total Charges",
+    "dtype": "float64"
+  },
+  {
+    "name": "Total Refunds",
+    "dtype": "float64"
+  },
+  {
+    "name": "Total Extra Data Charges",
+    "dtype": "int64"
+  },
+  {
+    "name": "Total Long Distance Charges",
+    "dtype": "float64"
+  },
+  {
+    "name": "Total Revenue",
+    "dtype": "float64"
+  },
+  {
+    "name": "Revenue_per_Month",
+    "dtype": "float64"
+  }
+]
